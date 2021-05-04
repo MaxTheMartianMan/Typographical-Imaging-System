@@ -9,3 +9,5 @@ Please forgive any spelling and grammar errors in the TIS options file as I said
 Need More Info: Website: https://maxlipitz.myportfolio.com/typographical-imaging-system
 
 Papper: https://www.researchgate.net/publication/351334796_The_Typographical_Imaging_System_TIS_Art_It_Is
+
+© Maxmillian Lipitz 2021
